@@ -19,7 +19,7 @@ This script reads a list of tokens from a file, extracts the relevant portion of
 1. Place your tokens in a file named `tokenstoformat.txt`, ensuring each token is on a new line.
 2. Run the script using:
    ```sh
-   node script.js
+   node index.js
    ```
 3. The formatted tokens will be saved in `formattedtokens.txt`.
 
